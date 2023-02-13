@@ -1,4 +1,4 @@
-### Micro Controller Design
+# Micro Controller Design
 
 8-bits general purpuse Micro-controller design including ALU, flags, program counter and counter jumping. I created this project after learning about the makeup of a cpu from one of my hardware courses.
 - Logisim (logic circuit design application)
